@@ -1,3 +1,9 @@
 # CDN
 .bootcss.com
 .cdnjs.com
+
+# Cloud
+.amazon.com
+.oracle.com
+.oraclecloud.com
+.oralceinfinity.com
