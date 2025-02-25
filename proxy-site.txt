@@ -13,3 +13,4 @@
 
 # blockchain
 .metamask.io
+.github.com
