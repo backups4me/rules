@@ -12,5 +12,5 @@
 .hk-hkg.doh.sb
 
 # blockchain
-.metamask.io
-.github.com
++.metamask.io
++.github.com
