@@ -4,6 +4,3 @@
 
 # Cloud
 +.amazon.com
-+.oracle.com
-+.oraclecloud.com
-+.oralceinfinity.com
