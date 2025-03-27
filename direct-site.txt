@@ -5,3 +5,7 @@
 # Cloud
 +.amazon.com
 +.cloudns.net
++.argotunnel.com
+
+# Google Play
++.xn--ngstr-lra8j.com
