@@ -16,4 +16,12 @@
 +.github.com
 
 # AI
++.openai.com
 +.meta.ai
++.chatgpt.com
++.grok.com
+gemini.google.com
+
+# IDE
++.cursor.com
++.augmentcode.com
