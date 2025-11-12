@@ -25,3 +25,7 @@ gemini.google.com
 # IDE
 +.cursor.com
 +.augmentcode.com
+
+# Google Play
++.services.googleapis.cn
++.xn--ngstr-lra8j.com
