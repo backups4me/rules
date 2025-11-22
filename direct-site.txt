@@ -3,6 +3,5 @@
 .cdnjs.com
 
 # Cloud
-+.amazon.com
 +.cloudns.net
 +.argotunnel.com
