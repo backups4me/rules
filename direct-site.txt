@@ -10,6 +10,4 @@
 +.wise.com
 +.sc.com
 +.hsbc.com.hk
-+.swissquote.com
-+.swissquote.ch
 +.ifastgb.com
