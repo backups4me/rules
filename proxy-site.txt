@@ -31,3 +31,5 @@ gemini.google.com
 # Google Play
 +.services.googleapis.cn
 +.xn--ngstr-lra8j.com
++.recaptcha.net
++.gstatic.cn
