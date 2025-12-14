@@ -33,3 +33,6 @@ gemini.google.com
 +.xn--ngstr-lra8j.com
 +.recaptcha.net
 +.gstatic.cn
+
+# HK
++.usmart.hk
