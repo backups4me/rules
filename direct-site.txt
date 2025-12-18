@@ -7,9 +7,8 @@
 +.argotunnel.com
 
 # Finance
-+.hk
-
 +.sc.com
++.hsbc.com.hk
 +.cncbinternational.com
 +.bochk.com
 +.icbcasia.com
@@ -17,17 +16,22 @@
 +.wise.com
 +.za.group
 +.alipayhk.com
++.antbank.hk
++.antbank.mo
 +.airstarbank.com
 +.fusionbank.com
 +.welab.bank
 +.mox.com
++.paob.com.hk
 +.ifastgb.com
 
 +.longbridge.com
++.htsc.com.hk
 +.futunn.com
-+.itiger.com
 +.vbkr.com
 +.hstong.com
 +.usmartglobal.com
 +.usmart.sg
 +.snowball-x.com
++.poems.com.hk
++.octopus.com.hk
