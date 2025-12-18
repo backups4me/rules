@@ -35,4 +35,6 @@ gemini.google.com
 +.gstatic.cn
 
 # HK
-+.usmart.hk
++.zr66.com
++.zrsec.com
+
