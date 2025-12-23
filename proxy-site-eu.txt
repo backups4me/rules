@@ -1,0 +1,5 @@
+# DE
++.bybit.com
++.bybit.eu
++.coinbase.com
++.vodafone.de
