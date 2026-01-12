@@ -16,11 +16,8 @@
 +.github.com
 
 # AI
-+.openai.com
 +.meta.ai
-+.chatgpt.com
 +.grok.com
-gemini.google.com
 +.azure.com
 +.azure.net
 
