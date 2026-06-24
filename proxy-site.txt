@@ -34,4 +34,12 @@
 # HK
 +.zr66.com
 +.zrsec.com
++.futunn.com
++.longbridge.com
++.hstong.com
++.vbkr.com
++.htsc.com.hk
++.usmartglobal.com
++.usmart.sg
++.snowball-x.com
 
