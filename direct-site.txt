@@ -25,12 +25,4 @@
 +.paob.com.hk
 +.ifastgb.com
 
-+.htsc.com.hk
-+.futunn.com
-+.vbkr.com
-+.hstong.com
-+.usmartglobal.com
-+.usmart.sg
-+.snowball-x.com
-
 +.octopus.com.hk
