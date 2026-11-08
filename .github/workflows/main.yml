@@ -1,0 +1,20 @@
+name: Purge Changed Files
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Purge changed files
+        run: |
+          for f in $(git diff --name-only HEAD^ HEAD); do
+            echo "Purging $f"
+            curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/$f" || true
+          done
