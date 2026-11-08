@@ -25,9 +25,12 @@
 ||obus-*^
 ||push-ads*^
 ||track-*^
+||*-track*^
 ||err-up.*^
 ||dc-*^
-
+||log-*^
+||*-log-*^
+||*logreport*^
 ||*.wo.com*^
 ||*.wo.cn*^
 ||*.vivo.com*^
