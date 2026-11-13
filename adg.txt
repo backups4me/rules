@@ -31,7 +31,12 @@
 ||log-*^
 ||*-log-*^
 ||*logreport*^
-||*.wo.com*^
-||*.wo.cn*^
-||*.vivo.com*^
-||*.coloros.com*^
+
+||fxltsbl.com*^
+||wo.com*^
+||wo.cn^
+||tydevice.com*^
+||vnet.cn^
+
+||vivo.com*^
+||coloros.com*^
