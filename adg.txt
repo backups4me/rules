@@ -17,7 +17,6 @@
 ||crash.*^
 ||bug.*^
 ||dump.*^
-||tracker.*^
 ||track.*^
 ||stun.*^
 ||*stunserver*^
