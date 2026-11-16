@@ -18,6 +18,7 @@
 ||bug.*^
 ||dump.*^
 ||track.*^
+||trace.*^
 ||stun.*^
 ||*stunserver*^
 
@@ -29,6 +30,9 @@
 ||dc-*^
 ||log-*^
 ||*-log-*^
+||*applog.*^
+||*-applog-*^
+||metrics-*^
 ||*logreport*^
 
 ||fxltsbl.com*^
