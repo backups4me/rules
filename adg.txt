@@ -40,6 +40,3 @@
 ||wo.cn^
 ||tydevice.com*^
 ||vnet.cn^
-
-||vivo.com*^
-||coloros.com*^
