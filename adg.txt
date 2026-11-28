@@ -34,9 +34,3 @@
 ||*-applog-*^
 ||metrics-*^
 ||*logreport*^
-
-||fxltsbl.com*^
-||wo.com*^
-||wo.cn^
-||tydevice.com*^
-||vnet.cn^
